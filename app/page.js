@@ -70,6 +70,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
+        
           <h2>
             Templates <span>-&gt;</span>
           </h2>
